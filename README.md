@@ -9,6 +9,7 @@ Kittygram - это веб-приложение для хранения фото�
 
 ## Технологии
 Backend: Python, Django, Django Rest Framework
+
 Frontend: JS, CCS, HTML
 
 ## Скриншоты:
