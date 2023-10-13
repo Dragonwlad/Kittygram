@@ -93,4 +93,5 @@ http://localhost:3000/
 
 ## Автор:
 Backend: [Владислав Кузнецов](https://github.com/Dragonwlad)
+
 Frontend: Yandex-Praktikum
