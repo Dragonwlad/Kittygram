@@ -2,7 +2,7 @@
 venv/
 
 # IDE
-.idea
+.idea/
 
 # production
 /build
