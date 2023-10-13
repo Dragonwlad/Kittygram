@@ -1,0 +1,8 @@
+# Environments
+venv/
+
+# IDE
+.idea
+
+# production
+/build
